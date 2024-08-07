@@ -1,4 +1,4 @@
-000100240703**free
-000102240703dsply 'hello world';
-000103240717dsply 'hello world2';
-000104240710return;
+**free
+dsply 'hello world';
+dsply 'hello world2';
+return;
